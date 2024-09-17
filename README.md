@@ -11,8 +11,8 @@
 - 💬 Ask me about **.NET CORE,AWS**
 
 - 📫 How to reach me **mohammedkhanzaki.d@gmail.com**
-- 
-- - ⚡ Fun fact **I can speak three languages fluently.**
+
+- ⚡ Fun fact **I can speak three languages fluently.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
