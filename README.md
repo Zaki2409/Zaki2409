@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with [Dynamic-Multilevel-Caching-System](https://github.com/Zaki2409/Dynamic-Multilevel-Caching-System)
 
-- 💬 Ask me about **.NET CORE,AWS**
+- 💬 Ask me about **.NET CORE, AWS**
 
 - 📫 How to reach me **mohammedkhanzaki.d@gmail.com**
 
