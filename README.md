@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Zaki Khan</h1>
 <h3 align="center">"I'm great at what I do!"</h3>
-<img align="right" alt="Coding" width="300" src="https://imgs.search.brave.com/rccJiVpRHX2OOn56vkMspEwZ4yx8xz635x9-1F21sok/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LXBlbmd1aW4taS1s/aWtlLXByZXNzaW5n/LWJ1dHRvbnMtcHV2/M2NvYzV6NHBrdGg1/MS5naWY.jpeg">
 
 
 
