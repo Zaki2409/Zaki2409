@@ -20,15 +20,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaki2409" alt="zaki2409" /></a> </p>
 
 
-- 🔭 I’m currently working on [Course_Planner_Back_End](https://github.com/Zaki2409/Course_Planner_Back_End)
 
-- 🤝 I’m looking for help with [Dynamic-Multilevel-Caching-System](https://github.com/Zaki2409/Dynamic-Multilevel-Caching-System)
-
-- 💬 Ask me about **.NET CORE, AWS**
-
-- 📫 How to reach me **mohammedkhanzaki.d@gmail.com**
-
-- ⚡ Fun fact **I can speak three languages fluently.**
 
 [![An image of @zaki2409's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zaki2409)](https://holopin.io/@zaki2409)
 
