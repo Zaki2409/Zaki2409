@@ -130,7 +130,7 @@
 
 <p align="left"></p>
 
-<img src="https://raw.githubusercontent.com/Zaki2409/Zaki2409/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.gif)
 
 <p align="left"></p>
 
