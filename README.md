@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey 👋, I'm Mohammed Zaki Khan</h1>
 
 <h2 align="center">A Passionate Developer From India</h2>
@@ -26,9 +25,15 @@
 <h2 align="center">🏆 My GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Zaki2409&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+   <img src="https://github-profile-trophy.vercel.app?username=Zaki2409&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
+ </div>
 
+<h2 align="center">🎃 Hacktoberfest Trophies</h2>
+
+<div align="center">
+  <img src="https://holopin.me/zaki2409" alt="Hacktoberfest Badges" height="250">
+</div>
 <p align="left"></p>
 
 <h2 align="center">📊 GitHub Stats</h2>
