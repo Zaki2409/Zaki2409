@@ -1,19 +1,12 @@
-<br clear="both">
 
 <h1 align="center">Hey 👋, I'm Mohammed Zaki Khan</h1>
 
-<br clear="both">
-
-<h2 align="center">I love what I do, and I'm really good at it!</h2>
-
-<br clear="both">
+<h2 align="center">A Passionate Developer From India</h2>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Zaki2409.Zaki2409&left_color=cadetblue&right_color=slategrey"  />
 </div>
-
 <br clear="both">
-
 <h2 align="left">🌐 Connect with me:</h2>
 
 <div align="left">
@@ -24,28 +17,33 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="www.https://discord.com/users/mzk_24" target="_blank">
-    <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="www.https://discord.com/users/mzk_24" height="52" width="55" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
+<p align="left"></p>
+
+
+<h2 align="center">🏆 My GitHub Trophies</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Zaki2409&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+<p align="left"></p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zaki2409&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zaki2409&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Zaki2409&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Zaki2409&theme=dracula&column=-1&row=2&margin-w=8&margin-h=11&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaki2409&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zaki2409&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="240" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zaki2409&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=default&hide_border=false&order=2" height="270" alt="languages graph"  />
 </div>
 
-<br clear="both">
+<p align="left"></p>
+
 
 <h2 align="center">🧰 My Tech Toolbox</h2>
 
-
-<br clear="both">
 
 <p align="left">Mobile Dev:</p>
 
@@ -56,7 +54,6 @@
 </div>
 
 <p align="left">Web Dev:</p>
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -69,8 +66,8 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
-<p align="left">Backend & Cloud:</p>
 
+<p align="left">Backend & Cloud:</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
@@ -95,6 +92,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
+
 <p align="left">Languages:</p>
 
 <div align="left">
@@ -110,3 +108,31 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
+
+<p align="left"></p>
+
+
+<h2 align="center">🔥 Streaks</h2>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Zaki2409&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+<p align="left"></p>
+
+<h2 align="center">🌟 Contribution Journey 🌟</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaki2409&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+<p align="left"></p>
+
+<p align="left"></p>
+
+<img src="https://raw.githubusercontent.com/Zaki2409/Zaki2409/output/snake.svg" alt="Snake animation" />
+
+<p align="left"></p>
+
+<h3 align="center">" I love what I do, and I'm really good at it! " — MZK</h3>
+
