@@ -29,14 +29,14 @@
 </div>
  </div>
 
-<h2 align="center">🎃 Hacktoberfest Trophies</h2>
+<h2 align="center">🎃 My Hacktoberfest Trophies</h2>
 
 <div align="center">
   <img src="https://holopin.me/zaki2409" alt="Hacktoberfest Badges" height="250">
 </div>
 <p align="left"></p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 My GitHub Stats</h2>
 
 
 <div align="center">
