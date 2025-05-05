@@ -36,7 +36,7 @@
 </div>
 <p align="left"></p>
 
-<h2 align="center">📊 My GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 
 <div align="center">
@@ -117,7 +117,7 @@
 <p align="left"></p>
 
 
-<h2 align="center">🔥 Streaks</h2>
+<h2 align="center">🔥 My Streaks</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Zaki2409&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -125,7 +125,7 @@
 
 <p align="left"></p>
 
-<h2 align="center">🌟 Contribution Journey 🌟</h2>
+<h2 align="center">🌟 My Contribution Journey 🌟</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaki2409&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
